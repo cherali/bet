@@ -1,7 +1,3 @@
-# Table
-Show table with data virtualization.
-
-
 ## Build with
 - Next.js
 - React.js
